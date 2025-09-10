@@ -1,16 +1,15 @@
 # Sales Performance Dashboard (Excel)
 
-Interactive Excel dashboard analyzing 1,000+ rows of simulated sales data.
+Interactive Excel workbook analyzing 1,000+ rows of simulated sales data.
 
-Highlights
-- KPIs: Total Revenue, Total Units Sold, Average Order Value, Growth % (with conditional formatting)
-- Visuals: Revenue by Region, Revenue by Product, Sales Rep performance, Monthly trend
-- Features: Dynamic PivotTables, PivotCharts, Slicers for Month/Product/Region/Rep, downloadable Excel file
+## Preview
+![Sales performance projectt](images/screenshot(50).png)
 
-Files
-- Sales-Dashboard/Sales performance projectt.xlsx` — the workbook
-- Sales-Screcnshot (50).png/images/` — screenshots
+## Highlights
+- KPIs: Total Revenue, Units Sold, AOV, Growth %
+- Visuals: Revenue by Region, Product, Sales Rep; Monthly Trend
+- Features: PivotTables, PivotCharts, Slicers
 
-Notes
-- Data is simulated and anonymized.
-- Tools: Excel 365 (dynamic arrays & slicers recommended)
+## Files
+- `Sales-Dashboard/Sales performance projectt.xlsx` — workbook
+- `images/screenshot(50).png` — screenshot
