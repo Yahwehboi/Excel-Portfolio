@@ -1,6 +1,16 @@
-# Excel Portfolio
+# Sales Performance Dashboard (Excel)
 
-## Sales & Revenue Dashboard
-- Interactive dashboard tracking KPIs: Total Revenue, Growth %, Average Order Value, Top Products, Top Sales Reps
-- Features: PivotTables, PivotCharts, Slicers
-- Dataset: 1,000 rows simulated sales data
+Interactive Excel dashboard analyzing 1,000+ rows of simulated sales data.
+
+Highlights
+- KPIs: Total Revenue, Total Units Sold, Average Order Value, Growth % (with conditional formatting)
+- Visuals: Revenue by Region, Revenue by Product, Sales Rep performance, Monthly trend
+- Features: Dynamic PivotTables, PivotCharts, Slicers for Month/Product/Region/Rep, downloadable Excel file
+
+Files
+- Sales-Dashboard/Sales Performance Dashboard.xlsx` — the workbook
+- Sales-Dashboard/images/` — screenshots
+
+Notes
+- Data is simulated and anonymized.
+- Tools: Excel 365 (dynamic arrays & slicers recommended)
