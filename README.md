@@ -3,7 +3,7 @@
 Interactive Excel workbook analyzing 1,000+ rows of simulated sales data.
 
 ## Preview
-![Sales performance projectt](images/screenshot(50).png)
+![Sales performance projectt](images/Screenshot.png)
 
 ## Highlights
 - KPIs: Total Revenue, Units Sold, AOV, Growth %
@@ -12,4 +12,4 @@ Interactive Excel workbook analyzing 1,000+ rows of simulated sales data.
 
 ## Files
 - `Sales-Dashboard/Sales performance projectt.xlsx` — workbook
-- `images/screenshot(50).png` — screenshot
+- `images/Screenshot.png` — screenshot
