@@ -8,8 +8,8 @@ Highlights
 - Features: Dynamic PivotTables, PivotCharts, Slicers for Month/Product/Region/Rep, downloadable Excel file
 
 Files
-- Sales-Dashboard/Sales Performance Dashboard.xlsx` — the workbook
-- Sales-Dashboard/images/` — screenshots
+- Sales-Dashboard/Sales performance projectt.xlsx` — the workbook
+- Sales-Screcnshot (50).png/images/` — screenshots
 
 Notes
 - Data is simulated and anonymized.
